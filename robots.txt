@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uquwuotu.github.io/EZA/sitemap_index.txt
+Sitemap: https://uquwuotu.github.io/LOn/sitemap_index.txt
+Sitemap: https://uquwuotu.github.io/VrR/sitemap_index.txt
+Sitemap: https://uquwuotu.github.io/vIF/sitemap_index.txt
